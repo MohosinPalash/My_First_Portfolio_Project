@@ -1,0 +1,36 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.special_txt{
+    color: blue;
+}
+.surname{
+    color: orangered;
+}
+.projects{
+    color: orangered;
+    font-size: 15px;
+}
+.sec1{
+    width: 40%;
+    float: left;
+    margin-left:  5%;
+    padding-left: 2%;
+    padding-top: 5%;
+
+}
+.sec1 img{
+    height: 100%;
+    width: 100%;
+}
+.btn{
+    text-decoration: none;
+    background-color: coral;
+    border-radius: 5%;
+    padding: 5px;
+    color: whitesmoke;
+    font-weight: 500;
+}
