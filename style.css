@@ -5,10 +5,10 @@ h1{
     font-size: 40px;
 }
 .special_txt{
-    color: blue;
+    color: goldenrod;
 }
 
-.surname{
+.orange_txt{
     color: orangered;
 }
 .projects{
@@ -23,9 +23,7 @@ div{
     padding-top: 5%;
 
 }
-.text_div{
-    padding-top: 5%;
-}
+
 div img{
     height: 100%;
     width: 100%;
@@ -37,4 +35,55 @@ div img{
     padding: 5px;
     color: whitesmoke;
     font-weight: 500;
+    
+}
+.first_sec{
+    height: 650px;
+
+
+}
+.second_sec{
+    height: 650px;
+
+}
+.third_sec{
+    height: 650px;
+ 
+    background-color: lightgray;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: none;
+
+}
+.fourth_sec{
+    height: 200px;
+    padding: 10%;
+}
+.fourth_sec img{
+    width: 100%;
+    height: 100%;
+}
+.pro_div{
+    width: 25%;
+    margin: 2%;
+    float: left;
+    background-color: white;
+    border-radius: 5%;
+    padding-top: none;
+    padding-bottom: 2%;
+    padding-right: 2%;
+    box-shadow: 5px 5px 5px lightsalmon;
+    
+}
+.pro_div img{
+    width: 100%;
+}
+.pname_txt{
+    padding-top: 2%;
+    text-align: center;
+    
+}
+.footer_txt{
+    text-align: center;
+    color: gray;
 }
